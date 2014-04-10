@@ -78,7 +78,7 @@ Language-specific workers have multiple runtimes for their respective language (
 * Riak 1.2.x
 * Apache Cassandra 2.0.x
 * Neo4J Community Edition 1.7.x
-* ElasticSearch 0.90.x
+* ElasticSearch 1.1.x
 * CouchDB 1.3.x
 
 ### Messaging Technology
@@ -89,7 +89,7 @@ Language-specific workers have multiple runtimes for their respective language (
 ### Headless Browser Testing Tools
 
 * [xvfb](http://en.wikipedia.org/wiki/Xvfb) (X Virtual Framebuffer)
-* [PhantomJS](http://phantomjs.org/) 1.9.2
+* [PhantomJS](http://phantomjs.org/) 1.9.x
 
 ### Environment variables
 
